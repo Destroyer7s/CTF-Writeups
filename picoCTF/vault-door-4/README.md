@@ -2,7 +2,7 @@
 
 The challenge reads:
 
-This vault uses ASCII encoding for the password. The source code for this vault is here: VaultDoor4.java
+This vault uses ASCII encoding for the password. The source code for this vault is here: *VaultDoor4.java*
 
 Opening the java file, we see the code:
 
