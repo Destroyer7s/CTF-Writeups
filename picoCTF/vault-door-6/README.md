@@ -68,5 +68,5 @@ print(flag)
 
 The result/flag is:
 
-**picoCTF{n0t_mUcH_h4rD3r_tH4n_x0r_3484ebc}**
+**picoCTF{n0t_mUcH_h4rD3r_tH4n_x0r_3ce2919}**
 
