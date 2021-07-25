@@ -11,4 +11,7 @@ I saw an interesting mix of information all in a list. I then stumbled apon the 
 
 I opened it in a text editor and there was the flag.
 
+![alt text](https://github.com/Destroyer7s/CTF_Writeups/blob/main/picoCTF/Some%20Assembly%20Required%201/Some%20Assembly%20Required%201%20text.png)
+
+
 Flag: `picoCTF{d88090e679c48f3945fcaa6a7d6d70c5}`
